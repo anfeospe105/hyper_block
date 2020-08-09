@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 .contenedor{
     padding: 50px 50px;
     background-color: pink;
+
     margin-left: 0;
     margin-right: 0;
     border-radius: 50px;
@@ -14,18 +14,13 @@ h1{
 p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: darkslategray;
+    color: white;
     text-align: center;
 }
 .footer{
-    background-color: pink;
+   
+    background-color: gray;
     margin-top: 200px;
-    padding: 20px 350px;
-    border: 1px solid rgb(192, 255, 200);
+    padding: 10px 350px;
+    border: 1px solid rgb(30, 31, 30);
     
-=======
-body{
-    color: cyan;
-    text-align: center;
->>>>>>> ccacd68822c0dd12b2affd47cbece96c206d6f76
-}
