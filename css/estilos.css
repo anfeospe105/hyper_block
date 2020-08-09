@@ -1,4 +1,16 @@
-<<<<<<< HEAD
+.header {
+    
+    padding: 10px 10px ;
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: 30px;
+    border: 1 px solid aqua;
+    background-color: rgb(143, 237, 100);
+    margin-top: 20 px;
+    margin-bottom: 20px;
+}
+
+
 .contenedor{
     padding: 50px 50px;
     background-color: pink;
@@ -23,9 +35,4 @@ p{
     padding: 20px 350px;
     border: 1px solid rgb(192, 255, 200);
     
-=======
-body{
-    color: cyan;
-    text-align: center;
->>>>>>> ccacd68822c0dd12b2affd47cbece96c206d6f76
 }
