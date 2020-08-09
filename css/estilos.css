@@ -16,3 +16,10 @@ p{
     color: darkslategray;
     text-align: center;
 }
+.footer{
+    background-color: pink;
+    margin-top: 200px;
+    padding: 20px 350px;
+    border: 1px solid rgb(192, 255, 200);
+    
+}
