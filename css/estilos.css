@@ -1,0 +1,11 @@
+.contenedor{
+    padding: 50px 50px;
+    background-color: cornflowerblue;
+    margin-left: 0;
+    margin-right: 0;
+}
+h1{
+    color: darkkhaki;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
